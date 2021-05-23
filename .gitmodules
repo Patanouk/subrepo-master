@@ -1,0 +1,3 @@
+[submodule "subrepo-module"]
+	path = subrepo-module
+	url = git@github.com:Patanouk/subrepo-module.git
